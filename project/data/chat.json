@@ -1,0 +1,74 @@
+{
+
+		"hi": [
+		"Hello",
+		"Hello, how are you?",
+		"Good to see you!",
+		"Pleased to meet you.",
+        "Nice to meet you."
+	],
+
+	"hello": [
+		"Hello",
+		"Hello, how are you?",
+		"Good to see you!",
+		"Pleased to meet you.",
+        "Nice to meet you."
+	],
+
+	"how are you": [
+		"Hey, I'm Good !",
+		"I'm good",
+		"I'm good, what about you?",
+		"I'm fine, hope you're also fine",
+		"Good, how about you?",
+		"Doing fine, and you?",
+		"I'm doing great",
+		"I'm doing Well",
+		"Pretty good",
+		"Very well, thanks"
+	],
+
+	"your name": [
+        "I'm Eve"
+	],
+	"thank": [
+		"My Pleasure",
+		"You're welcome",
+		"Welcome"
+	],
+
+	"fine": [
+		"Hope you're fine",
+		"Good to know that you are fine",
+		"I'm glad"
+	],
+
+	"i love you": [
+		"It's hard to understand"
+	],
+
+	"love me": [
+		"Offcourse I love you",
+		"Always",
+		"Yeah I Really love u"
+
+	],
+
+	"are you here": [
+		"Yes",
+		"I am Here",
+		"Yeah I Really love you"
+
+	],
+
+	"you need a break": [
+		"Okay, you Can Call Me Anytime!"
+	],
+
+	"sleep": [
+		"Zzz. Zzz. Zzz."
+	]
+
+
+}
